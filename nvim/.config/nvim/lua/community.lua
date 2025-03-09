@@ -24,6 +24,7 @@ return {
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.astro" },
   { import = "astrocommunity.pack.zig" },
+  { import = "astrocommunity.pack.elixir-phoenix" },
   { import = "astrocommunity.markdown-and-latex.glow-nvim" },
   -- import/override with your plugins folder
 }
