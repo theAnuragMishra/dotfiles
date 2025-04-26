@@ -19,11 +19,13 @@ return {
   { import = "astrocommunity.pack.sql" },
   { import = "astrocommunity.pack.python-ruff" },
   { import = "astrocommunity.pack.markdown" },
+  { import = "astrocommunity.pack.mdx" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.java" },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.astro" },
   { import = "astrocommunity.pack.zig" },
+  { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.elixir-phoenix" },
   { import = "astrocommunity.markdown-and-latex.glow-nvim" },
   -- import/override with your plugins folder
