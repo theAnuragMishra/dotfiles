@@ -10,7 +10,7 @@ return {
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.syntax.vim-sandwich" },
   { import = "astrocommunity.file-explorer.oil-nvim" },
-  { import = "astrocommunity.motion.leap-nvim" },
+  -- { import = "astrocommunity.motion.leap-nvim" },
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.svelte" },
   { import = "astrocommunity.pack.tailwindcss" },
